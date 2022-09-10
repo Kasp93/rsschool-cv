@@ -4,7 +4,9 @@
 
 ## About me:
 
-### I am 29 y.o. I work as an engineer in the field of security: video surveillance systems, analog and digital intercom.
+### I am 29 y.o. 
+### I work as an engineer in the field of security: 
+### Video surveillance systems, analog and digital intercom.
 
 ## Skills:
 
